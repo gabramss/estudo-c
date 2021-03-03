@@ -2,7 +2,7 @@
 
 ## Programas desenvolvidos durante meus estudos na linguagem C (Alguns deles feitos da IDE CodeBlocks)
 
-Se algum programa der problemas ao apresentar palavras com acentos, apenas acrescente pt_BR entre as aspas duplas em `setlocale(LC_ALL, "")`
+Se algum programa der problemas ao apresentar palavras com acentos, apenas acrescente `Portuguese` entre as aspas duplas em `setlocale(LC_ALL, "")`
 
 <b>Programa 1 - Criador de vetores</b> (Feito para Windows)
 
