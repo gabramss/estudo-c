@@ -1,6 +1,6 @@
 # Programas em C
 
-## Programas desenvolvidos durante meus estudos na linguagem C
+## Programas desenvolvidos durante meus estudos na linguagem C (Alguns deles feitos da IDE CodeBlocks)
 
 <b>Programa 1 - Criador de vetores</b>
 
